@@ -217,7 +217,7 @@ console.log(onlyLetters)
 /* ESERCIZIO 20
   Scrivi una funzione per selezionare l'elemento dotato di id "container" all'interno della pagina.
 */
-
+KeyboardEvent
 /* ESERCIZIO 21
   Scrivi una funzione per selezionare ogni tag <td> all'interno della pagina.
 */
